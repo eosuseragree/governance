@@ -1,6 +1,6 @@
 # The EOS User Agreement
 
-## Defintions
+## Definitions
 
  All capitalized, italicized, or inline code terms in *The EOS User Agreement* will be given the same effect and meaning as in *Definitions*.
 
